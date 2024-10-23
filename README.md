@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">My name is Duban Caro... and I am a systems engineer..., <br>I am from Colombia, and I like to spend time developing my projects in my spare times ....</p>
+<p align="left">
+My name is Duban Caro... and I am a systems engineer..., <br>
+I am from Colombia, and I like to dedicate my time to develop my projects in my free time, <br>
+apart from that I like video games and music, I think they are a way to share with others.
+</p>
 
 ###
 
