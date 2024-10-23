@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Duban Caro... and I am a systems engineer..., <br>I am from Colombia, and I like to spend time developing my projects in my spare times ....</p>
+<p align="left">My name is Duban Caro... and I am a systems engineer..., <br>I am from Colombia, and I like to spend time developing my projects in my spare times ....</p>
 
 ###
 
