@@ -22,7 +22,7 @@ apart from that I like video games and music, I think they are a way to share wi
 
 ###
 
-<p align="left">✨ Creating bugs since 3 years, as a freelancer in my freetimes...<br>📚 I'm currently learning  python, node js y nuxt js<br>🎯 Goals: Continuar aprendiendo como dev...<br>🎲 Fun fact: Me gsuta desaparecerme por u tiempo y volver...</p>
+<p align="left">✨ Creating bugs since 3 years, as a freelancer in my freetimes...<br>📚 I'm currently learning  python, Laravel y React Js <br>🎯 Goals: Continuar aprendiendo como dev...<br>🎲 Fun fact: Me gsuta desaparecerme por u tiempo y volver...</p>
 
 ###
 
