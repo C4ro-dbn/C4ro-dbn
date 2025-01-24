@@ -10,10 +10,6 @@ apart from that I like video games and music, I think they are a way to share wi
 
 ###
 
-![img](https://github.com/user-attachments/assets/36b98f72-a454-4d38-95c8-ccc7d008fe13)
-
-###
-
 <br clear="both">
 
 ###
